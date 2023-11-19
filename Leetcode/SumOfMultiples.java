@@ -12,7 +12,7 @@ public class SumOfMultiples {
     }
     public static void main(String[] args){
         SumOfMultiples sumOfMultiples = new SumOfMultiples();
-        int res = sumOfMultiples.sumOfMultiples(7);
+        int res = sumOfMultiples.sumOfMultiples(8);
         System.out.println("Sum of multiples: " + res);
     }
 }
